@@ -1,0 +1,13 @@
+#header {
+    font-style: italic;
+}
+.imagesHome {
+    height: 40px;
+    width: 30px;
+    border: 1px solid grey;
+}
+
+.imagesLink {
+    height: 400px;
+    width: 400px;
+}
